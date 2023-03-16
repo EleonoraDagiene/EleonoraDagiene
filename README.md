@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 
-Currently, I am pursuing my PhD research on book evaluation and quantitative research assessment at CWTS, Leiden University and planning to finish my PhD thesis soon. **Hope to work as _data analist_ or _data scientist_ in the nearest future.** 
+Currently, I am pursuing my PhD research on book evaluation and quantitative research assessment at CWTS, Leiden University. My goal is to finish my PhD thesis soon and **work as _data analist_ or _data scientist_ in the nearest future.** 
 
 Here in GITHUB, I'm sharing some datasets from my research projects.
 

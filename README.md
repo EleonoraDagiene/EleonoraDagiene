@@ -16,7 +16,7 @@
 
 Currently, I'm pursuing PhD research on book evaluation and quantitative research assessment at CWTS, Leiden University. <br> My goal is to finish my PhD thesis  and **work as _data analist_ or _data scientist_ in the nearest future.** 
 
-Here in GITHUB, I'm sharing some datasets from my research projects.
+Here in GitHub, I'm sharing some datasets from my research projects.
 
 <br>
 

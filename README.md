@@ -10,12 +10,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=EleonoraDagiene&style=flat-square&color=blue" alt=""/>
 
+<br>
 
 ### :woman_technologist: About Me :
 
 Currently, I am pursuing my PhD research on book evaluation and quantitative research assessment at CWTS, Leiden University and planning to finish my PhD thesis soon. **Hope to work as _data analist_ or _data scientist_ in the nearest future.** 
 
 Here in GITHUB, I'm sharing some datasets from my research projects.
+
+<br>
 
 ### :hammer_and_wrench: Some Tools I Have Used and Learned :
 <div>
